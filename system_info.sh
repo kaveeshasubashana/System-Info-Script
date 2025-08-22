@@ -54,7 +54,7 @@ while true; do
     echo "6. Network Info"
     echo "7. Show All"
     echo "0. Exit"
-    echo -e "${BLUE}==============================${NC}"
+    echo -e "${BLUE}============================${NC}"
 
     read -p "Choose an option: " choice
 
